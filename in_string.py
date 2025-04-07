@@ -1,6 +1,6 @@
 def check_vowels():
     # Código a implementar utilizando input.
-nombre = input('Ingresar nombre:' )
+    nombre = input('Ingresar nombre:' )
     if nombre.find('a') != -1:
         print('contiene a: True')
     else:
